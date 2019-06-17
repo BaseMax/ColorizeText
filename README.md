@@ -44,4 +44,5 @@ CODE	COLOR
 ### Similar Projects
 
 - tapiov.net/rlutil/
-
+- https://www.programmingsimplified.com/c/graphics.h/colors
+- https://www.includehelp.com/c-programs/textcolor-and-textbackground-functions-of-conio-h.aspx
