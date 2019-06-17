@@ -1,6 +1,6 @@
 # ColorizeText
 
-A library for colorizing the text.
+Some ways for colorizing the text in different operating system.
 
 ```
 Red='\033[0;31m' 
