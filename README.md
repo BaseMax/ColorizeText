@@ -27,7 +27,7 @@ std::cout << "\033[0;31mError.\n"
 
 ### Colors Table
 
-| CODE  | COLOR |
+| Code  | Color |
 | ------------- | ------------- |
 | [0;31m	| Red |
 | [1;31m	| Bold Red |
