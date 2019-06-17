@@ -46,7 +46,6 @@ std::cout << "\033[0;31mError.\n"
 
 | Color  | Value |
 | ------------- | ------------- |
-| [0;31m	| Red |
 | BLACK	| 0 |
 | BLUE	| 1 |
 | GREEN	| 2 |
