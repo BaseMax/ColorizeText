@@ -67,5 +67,8 @@ std::cout << "\033[0;31mError.\n"
 ### Similar Projects
 
 - http://tapiov.net/rlutil/
+
+### Similar Articles
+
 - https://www.programmingsimplified.com/c/graphics.h/colors
 - https://www.includehelp.com/c-programs/textcolor-and-textbackground-functions-of-conio-h.aspx
