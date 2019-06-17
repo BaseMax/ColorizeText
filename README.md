@@ -24,3 +24,19 @@ White='\033[1;37m'
 ```
 std::cout << "\033[0;31mError.\n"
 ```
+
+CODE	COLOR
+[0;31m	Red
+[1;31m	Bold Red
+[0;32m	Green
+[1;32m	Bold Green
+[0;33m	Yellow
+[01;33m	Bold Yellow
+[0;34m	Blue
+[1;34m	Bold Blue
+[0;35m	Magenta
+[1;35m	Bold Magenta
+[0;36m	Cyan
+[1;36m	Bold Cyan
+[0m	Reset
+
