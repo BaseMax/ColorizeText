@@ -2,7 +2,7 @@
 
 Some ways for colorizing the text in different operating system.
 
-```
+```bash
 Red='\033[0;31m' 
 Black='\033[0;30m'     
 Dark_Gray='\033[1;30m'    
