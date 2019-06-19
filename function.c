@@ -1,14 +1,14 @@
 #include <stdio.h>
 
-void red () {
+void red() {
 	printf("\033[1;31m");
 }
 
-void yellow {
+void yellow() {
 	printf("\033[1;33m");
 }
 
-void reset () {
+void reset() {
 	printf("\033[0m");
 }
 
@@ -17,6 +17,6 @@ int main () {
 	printf("Hello, ");
 	yellow();
 	printf("World!\n");
-	reset;
+	reset();
 	return 0;
 }
